@@ -27,8 +27,8 @@ export default {
                 selected: null,
                 options: [
                     {value: null,text:'Please select a category'},
-                    {value: 1,text:'Pencils'},
-                    {value: 2,text:'Books'},  
+                    {value: 1,text:'Books'},
+                    {value: 2,text:'Pencils'},  
                 ],
                 product: {
                     name: '',

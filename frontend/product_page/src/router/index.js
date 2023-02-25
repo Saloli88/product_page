@@ -13,7 +13,7 @@ const routes = [
     path: '/form/:id',
     props: true,
     name: 'form',
-    component: () => import(/* webpackChunkName: "about" */ '../views/AddProduct.vue')
+    component: () => import(/* webpackChunkName: "about" */ '../views/FormPage.vue')
   }
 ]
 
